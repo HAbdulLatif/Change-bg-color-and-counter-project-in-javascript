@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav > ul > li {
+    display: inline;
+    text-decoration: none;
+}
+nav > ul > li > a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+nav > ul > li > a:hover {
+    color: rgb(50, 96, 182);
+}
+.color_1{
+    color: rgb(255, 255, 255);
+}
+.main-container{
+    width: 500px;
+    background: black;
+    color: rgb(255, 255, 255);
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+
+}
+.color_2{
+    color: rgb(0, 0, 0);
+}
